@@ -8,6 +8,7 @@
 #include <kinc/graphics5/vertexbuffer.h>
 #include <kinc/graphics5/indexbuffer.h>
 #include <kinc/system.h>
+#include <kinc/window.h>
 
 #include <assert.h>
 #include <stdlib.h>
